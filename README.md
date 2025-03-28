@@ -4,6 +4,11 @@
 
 ## Проверка TikTok методом Brute Force
 
+# contact telegram : https://t.me/daniruee
+
+
+telegram channel : https://t.me/toolsgi
+
 ![photo_5994395240263436057_x](https://github.com/user-attachments/assets/b1843e14-d7b0-4fe8-a7ca-af4784a61946)
 
 
