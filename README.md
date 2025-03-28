@@ -2,6 +2,36 @@
 
 ## Tiktok 检查器暴力破解
 
+## TikTok Checker V6
+A powerful and efficient TikTok credential checker built for speed, accuracy, and automation. Designed for advanced users and researchers in the field of security testing and automation.
+
+Features:
+Fast user:pass combo checking
+
+Supports both paid and free proxies
+
+Scrape over 100k+ TikTok usernames
+
+Automatically saves rate-limited users
+
+Sends hits and secured accounts directly to Telegram
+
+Advanced CAPTCHA solver (works even without proxies)
+
+Stable, never skips checks
+
+Multi-threaded, can run multiple sessions
+
+Easy-to-use interface with customizable settings
+
+Pricing:
+
+$70 / week
+
+$210 / month
+
+$400 full source code
+
 ## Проверка TikTok методом Brute Force
 
 # contact telegram : https://t.me/daniruee
